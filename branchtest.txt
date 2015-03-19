@@ -10,8 +10,4 @@ and branch dev had been created.
 
 测试的冲突内容：
 this line added by dwayneduan on master
-this line added by dwayneduan on feature1
-
-after merge!
-
 ------------------------------------------------------------------
