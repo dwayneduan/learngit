@@ -8,6 +8,10 @@ and branch dev had been created.
 测试的主要内容：查看主分支与feature1分支冲突文件合并后feature1上的
 文件内容变化，是不是已经与master分支上的一样？
 
+冲突后提交不了，增加-i参数，提交后不再冲突，feature1上的文件如果与
+master同步，则被直接覆盖
+
+
 测试的冲突内容：
 this line added by dwayneduan on master
 ------------------------------------------------------------------
