@@ -14,4 +14,5 @@ master同步，则被直接覆盖
 
 测试的冲突内容：
 this line added by dwayneduan on master
+create a new branch is quick & simple
 ------------------------------------------------------------------
