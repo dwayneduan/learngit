@@ -4,3 +4,4 @@ I want to learn it!
 
 ------------------------------
 Git is a free software
+I installed it in Centos and version 1.7
