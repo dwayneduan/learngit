@@ -9,5 +9,5 @@ and branch dev had been created.
 文件内容变化，是不是已经与master分支上的一样？
 
 测试的冲突内容：
-
+this line added by dwayneduan on feature1
 ------------------------------------------------------------------
